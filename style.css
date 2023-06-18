@@ -1,0 +1,89 @@
+th{
+    background-color: cadetblue;
+    color: azure;
+    height: 60px;
+    font-size: 40px;
+    border-radius: 10px;
+}
+
+
+
+.center{
+    /* border: 1px solid black ; */
+    width: 100%;
+    display: inline-table;
+    table-layout: fixed;
+    border-radius: 20px;
+    padding: 10px;
+    margin-top: 100px !important;
+    /* margin-left:15%; 
+    margin-right:15%;  */
+
+
+}
+td{
+    border: 1px solid black;
+    height: 50px;
+    text-align: center;
+    justify-content: center;
+    border-radius: 10px 5px 2px 3px;
+    font-size: large;
+    
+  
+    
+    
+}
+
+.col{
+    border: none;
+}
+
+.orange{
+    background-color: rgb(238, 155, 87);
+}
+.blue{
+    background-color: rgb(166, 245, 245);
+}
+.pink{
+    background-color: rgb(241, 157, 185);
+}
+.white{
+    background-color: white;
+}
+.yellow{
+    background-color: rgb(240, 230, 145);
+}
+.green{
+    background-color: rgb(189, 218, 146);
+}
+.golden{
+    background-color: goldenrod;
+}
+.skin{
+    background-color: rgb(235, 216, 156);
+}
+
+.silver{
+    background-color: rgb(219, 215, 215);
+    color: green;
+}
+
+.center2{
+    width: 100%;
+    display: inline-table;
+    table-layout: fixed;
+    padding: 10px;
+    /* margin-left:15%; 
+    margin-right:15%; */
+
+}
+
+.green1{
+    color: green;
+}
+.blue2{
+    color: blue;
+}
+.red{
+    color: red;
+}
